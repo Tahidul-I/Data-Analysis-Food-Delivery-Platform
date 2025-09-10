@@ -11,7 +11,7 @@ This porject demostrates **SQL based** comprehensive analytics based on some des
 1. Designing questionnaires for analytics
 2. Implmenting SQL Queries 
   
-## SQL CODE FOR Data Analytics  
+## SQL CODE FOR DATA ANALYTICS  
 ```sql
 Use food_delivery;
 
