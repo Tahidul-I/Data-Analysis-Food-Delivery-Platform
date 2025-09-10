@@ -1,17 +1,17 @@
-# Food Delivery Data Analysis
+# Data Analysis For Food Delivery Platform Uisng SQL
 ## Project Overview  
 
 **Project Title**: Data Analysis using SQL (Food Delivery Platform)   
 **Database**: `food_delivery`  
 
-This porject demostrates **SQL based** comprehensive analytics based on some designed question for a food delivery platform. Throughout this project, I have used basic to intermediate SQL queries such as JOINS,SubQueries,Aggregate Functions etc.
+This porject demostrates **SQL based** comprehensive analysis based on some designed question for a food delivery platform. Throughout this project, I have used basic to intermediate SQL queries such as JOINS,SubQueries,Aggregate Functions etc.
 
 ## Objectives
 
-1. Designing questionnaires for analytics
+1. Designing questionnaires for analysis
 2. Implmenting SQL Queries 
   
-## SQL CODE FOR DATA ANALYTICS  
+## SQL CODE FOR DATA ANALYSIS
 ```sql
 Use food_delivery;
 
