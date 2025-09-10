@@ -4,7 +4,7 @@
 **Project Title**: Data Analysis using SQL (Food Delivery Platform)   
 **Database**: `food_delivery`  
 
-This porject demostrates **SQL based** comprehensive analysis based on some designed question for a food delivery platform. Throughout this project, I have used basic to intermediate SQL queries such as JOINS,SubQueries,Aggregate Functions etc.
+This porject demostrates **SQL based** comprehensive analysis based on some designed question for a food delivery platform. Throughout this project, I have used basic to intermediate SQL queries such as **JOINS,SubQueries,Aggregate Functions** etc.
 
 ## Objectives
 
